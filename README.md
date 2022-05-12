@@ -1,5 +1,5 @@
 # hseb1-control-homework
-2013\. Study project. C# desktop app with the simulation of bank account management.
+2013\. Study project. C# desktop app with the simulation of bank account management
 ## Features
 1. Creating new accounts (different types)
 2. Import/export accounts from/to a file
